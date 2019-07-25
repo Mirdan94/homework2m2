@@ -9,5 +9,5 @@ public class Ferrari extends Car {
         super(wheel, steering_wheel, carName);
     }
 
-    
+
 }
